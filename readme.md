@@ -9,3 +9,9 @@
 3. 打开浏览器访问http://localhost:8080/hello.do
 ###### v1_1.2 springboot配置使用yml文件
 1. 在src/resources下创建application.yml文件
+###### v1_1.3 获取springboot配置文件参数
+1. 创建测试bean对象 dog person
+2. 在application.yml中配置对象
+3. 在bean对象上添加@ConfigurationProperties注解
+4. 引入依赖spring-boot-configuration-processor
+5. 创建controller测试结果
