@@ -7,3 +7,5 @@
 1. 添加web依赖
 2. 创建controller
 3. 打开浏览器访问http://localhost:8080/hello.do
+###### v1_1.2 springboot配置使用yml文件
+1. 在src/resources下创建application.yml文件
