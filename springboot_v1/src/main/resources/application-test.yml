@@ -1,0 +1,15 @@
+server:
+  port: 8882
+
+
+person:
+  name: zhagnsan
+  age: 11
+  map: {"1":"hello","2":"world"}
+  books:
+  - abook
+  - bbook
+  - cbook
+  dog:
+    name: dog1
+    type: 1

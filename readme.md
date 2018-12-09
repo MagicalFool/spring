@@ -15,3 +15,6 @@
 3. 在bean对象上添加@ConfigurationProperties注解
 4. 引入依赖spring-boot-configuration-processor
 5. 创建controller测试结果
+###### v1_1.4 springboot多环境切换
+1. 创建其他环境配置文件application-{profile}.yml
+2. 配置application.yml文件
