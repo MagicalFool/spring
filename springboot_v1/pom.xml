@@ -6,7 +6,7 @@
 
   <groupId>com.cc.spring</groupId>
   <artifactId>springboot_v1</artifactId>
-  <version>1.4-SNAPSHOT</version>
+  <version>1.5-SNAPSHOT</version>
 
   <parent>
     <groupId>org.springframework.boot</groupId>

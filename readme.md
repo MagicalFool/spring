@@ -18,3 +18,5 @@
 ###### v1_1.4 springboot多环境切换
 1. 创建其他环境配置文件application-{profile}.yml
 2. 配置application.yml文件
+###### v1_1.5 workStream初级构想
+1. 使用workStream类操作工作流程

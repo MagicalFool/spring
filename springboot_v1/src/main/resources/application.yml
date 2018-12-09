@@ -1,6 +1,6 @@
-#spring:
-#  profiles:
-#    active: test
+spring:
+  profiles:
+    active: test
 
 server:
   port: 8881 # 修改端口
